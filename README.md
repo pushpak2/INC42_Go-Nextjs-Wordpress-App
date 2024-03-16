@@ -1,2 +1,2 @@
-# Sample Next.JS App Deployment
+# Next.JS App Deployment
 
